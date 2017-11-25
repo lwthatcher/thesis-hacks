@@ -1,0 +1,7 @@
+ # Python Stuff
+.ipynb_checkpoints/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
