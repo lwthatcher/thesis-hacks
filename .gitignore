@@ -9,4 +9,5 @@
 # Files I don't want to include
 tqdm-tests.ipynb
 decorator-hacks.ipynb
+more-decorator-tests.ipynb
 
