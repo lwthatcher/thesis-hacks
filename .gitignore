@@ -5,3 +5,6 @@
 .vs/
 .vscode/
 .idea/
+
+# Files I don't want to include
+tqdm-tests.ipynb
